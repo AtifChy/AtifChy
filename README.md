@@ -1,5 +1,9 @@
 # Hi there 👋
-<!--![Haise's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifChy&theme=dark&show_icons=true)-->
+
+![AtifChy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifChy&theme=catppuccin_mocha&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifChy&layout=compact&theme=catppuccin_mocha)
+
 <!--
 **AtifChy/AtifChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
