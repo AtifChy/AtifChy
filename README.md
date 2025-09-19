@@ -1,19 +1,10 @@
 # Hi there 👋
 
-![AtifChy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifChy&theme=catppuccin_mocha&show_icons=true)
+![AtifChy View Counter](https://komarev.com/ghpvc/?username=AtifChy&color=cba6f7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifChy&layout=compact&theme=catppuccin_mocha)
+<div>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=AtifChy&theme=catppuccin_mocha&show_icons=true" alt="AtifChy's GitHub stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtifChy&layout=compact&theme=catppuccin_mocha&card_width=395" alt="Top Languages" />
+</div>
 
-<!--
-**AtifChy/AtifChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<sub>If you like what I do, consider giving me a :star: on my repos!</sub>
