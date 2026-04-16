@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![AtifChy View Counter](https://komarev.com/ghpvc/?username=AtifChy&color=cba6f7)
+<!-- ![AtifChy View Counter](https://komarev.com/ghpvc/?username=AtifChy&color=cba6f7) -->
 
 <div>
   <img width=400 src="https://github-readme-stats-two-topaz-55.vercel.app/api?username=AtifChy&theme=catppuccin_mocha&show_icons=true" alt="AtifChy's GitHub stats" />
